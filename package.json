@@ -1,0 +1,22 @@
+{
+  "name": "projeto_api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmatosqa/APITestingCypress.git"
+  },
+  "author": "Rafael Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmatosqa/APITestingCypress/issues"
+  },
+  "homepage": "https://github.com/rafaelmatosqa/APITestingCypress#readme",
+  "dependencies": {
+    "cypress": "^6.7.1"
+  }
+}
